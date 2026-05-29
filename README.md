@@ -8,8 +8,9 @@ This profile repo is a small index for current work, experiments, and useful lin
 
 - [Active repositories](https://github.com/tek08?tab=repositories&q=archived%3Afalse)
 - [All repositories](https://github.com/tek08?tab=repositories)
-- [Website](http://www.kruskall.org)
-- [Email](mailto:pete@kruskall.org)
+- [Website](https://kruskall.com)
+
+For project-specific questions, open an issue or discussion on the relevant repository.
 
 ## Current Projects
 
